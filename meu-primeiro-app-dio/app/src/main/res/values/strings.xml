@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SamSax App</string>
+    <string name="wellcome_dio" translatable="false">Olá,seja bem vindo a Dio!!</string>
+
+</resources>
